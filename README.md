@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a software engineer looking for opportunities to meaningfully contribute to our soceity as a whole.
+I am a software engineer looking for opportunities to meaningfully contribute to our society as a whole.
 
 ### Tech Stack
 
